@@ -1,0 +1,48 @@
+
+{        
+    "primeiraParte": {
+      "make": "BMW",
+      "engineperformance": "1000",
+      "dateofmanufacture": "10/29/2024",
+      "numberofseats": "1",
+      "fuel": "Gas",
+      "listprice": "10000",
+      "licenseplatenumber": "10",
+      "annualmileage": "100"
+    },
+    "segundaParte": {
+      "firstname": "Eduardo",
+      "lastname": "Maia",
+      "birthdate": "07/19/1986",
+      "gen": "Male",
+      "streetaddress": "Rua QA de sucesso",
+      "country": "Brazil",
+      "zipcode": "04300000",
+      "city": "São Paulo",
+      "occupation": "Employee",
+      "hobbie": "Speeding",
+      "website": "www.teste.com.br"
+    },
+    "terceiraParte": {
+      "startdate": "07/19/2025",
+      "insurancesum": "3.000.000,00",
+      "meritrating": "Super Bonus",
+      "damageinsurance": "Full Coverage",
+      "Products": "Euro Protection",
+      "courtesycar": "Yes"
+    },
+    "quartaParte": {
+      "Price": 3
+    },
+    "quintaParte": {
+      "email": "testedoteste@gmail.com",
+      "phone": "11989994444",
+      "username": "Teste",
+      "password": "Teste@123",
+      "confirmpassword": "Teste@123",
+      "Comments": "O Senhor é meu pastor, e nada me faltará."
+    }
+    
+  }
+  
+  
